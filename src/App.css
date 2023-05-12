@@ -1,0 +1,28 @@
+.app {
+    background-color: #05292E;
+    min-height: 100vh;
+}
+
+.app_title {
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1.5em;
+}
+
+.app_form {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2em;
+}
+
+.app_input {
+    padding: 0.4em 1em;
+    border-radius: 0.5em 0 0 0.5em;
+}
+
+.app_btn {
+    border-radius: 0 0.5em 0.5em 0;
+    padding: 0 1em;
+    background-color:rgba(128, 255, 0, 0.777);
+    color: white;
+}
